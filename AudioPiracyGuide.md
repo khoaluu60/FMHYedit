@@ -23,7 +23,7 @@
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [Elmyu](https://gitlab.com/zehkira/elmyu) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming / [Unlock HiFi](https://git.freezerapp.xyz/uhwot/dzunlock)
+* [Deezer](https://www.deezer.com/) - Streaming 
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
